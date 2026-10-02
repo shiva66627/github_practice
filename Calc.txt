@@ -1,1 +1,5 @@
-sub,min,mooo
+Calculator Application
+
+Addition
+Subtraction
+Multiplication
